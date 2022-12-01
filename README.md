@@ -1,8 +1,5 @@
 # 2020 Android Programming
 # <img width = "100%" src = "자료/Intro.png"/>
-지브리
-
-| [지브리홈페이지 바로가기](https://www.ghibli.jp/) |
 
 ## 개발자
 | 김지윤 | https://github.com/JiYoon0712 |
@@ -79,15 +76,9 @@
 ![image](https://user-images.githubusercontent.com/75983289/193456064-1f5d696e-2850-44bb-8d23-603a4ff91fe2.png)
 
   </details><br/>
- 
-> 피드백 게시판 
-   <details>
-    <summary>피드백 게시판</summary> 
-  - 사용자가 졸업가능 서비스를 이용하며 느끼는 불편함 또는 건의사항을 개발자들에게 전달할 수 있는 페이지입니다. 사용자의 이메일 주소와 피드백을 원하는 내용을 보내면 팀 메일로 해당 내용이 전송됩니다. 
-  
-![image](https://user-images.githubusercontent.com/75983289/193456222-e10294b0-e0de-4dcf-946d-b35967d7ded8.png)
-  
-  </details><br/>
-
   
 </details>
+     
+     
+##지브리      
+| [지브리홈페이지 바로가기](https://www.ghibli.jp/) |
