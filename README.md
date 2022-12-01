@@ -1,4 +1,4 @@
-# 2020_GhiBli Introduce Project
+# 2020 Android Programming
 # <img width = "100%" src = "자료/Intro.png"/>
 지브리
 
