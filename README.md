@@ -1,4 +1,4 @@
-# 2020_Android_GhiBli Introduce App
+# 2020_Project
 # <img width = "100%" src = "https://user-images.githubusercontent.com/75983289/164976416-004d3626-3a5c-4eb5-95d6-e94d1833a392.png"/>
 지브리
 
