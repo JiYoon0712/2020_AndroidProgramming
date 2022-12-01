@@ -3,47 +3,12 @@
 지브리
 
 | [지브리홈페이지 바로가기](https://www.ghibli.jp/) |
-|:---:|:---:|
 
-## TEAM MEMBER 👨‍👨‍👧‍👧
-| 팀원 | 역할 | Github | 
-|:---:|:---:|:---:| 
-| 배성규 | Front-end | https://github.com/pangkyu | 
-| 박수빈 | Back-end | https://github.com/psb0320 |
-| 김지윤 | Front-end | https://github.com/JiYoon0712 |
-| 김민석 | Back-end | https://github.com/alstjr |
+## 개발자
+| 김지윤 | https://github.com/JiYoon0712 |
 
-## PRIZE 🥇
-[2022년 창의적 종합설계 경진대회 대상](https://www.hs.ac.kr/kor/4953/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGa29yJTJGMjQlMkYxMzczMDglMkZhcnRjbFZpZXcuZG8lM0Y%3D)
-
-## 프로젝트 개요 👀
-#### 프로젝트 선정 이유
-1. 기존 한신대학교 졸업사정 셀프 테스트는 졸업 예정자인 학우들만 결과를 확인할 수 있음
-2. 학과 사무실에 셀프 테스트 양식을 작성하여 직접 제출해야함
-3. 학과/학번별로 졸업요건이 상이하기 때문에 졸업요건을 정확하게 파악하기 어려움
-4. 졸업사정 셀프 테스트 결과를 조교가 직접 체크해야 하기 때문에 결과지를 받는 데 많은 시간이 소요됨
-#### 프로젝트 목적 및 기대효과
-1. 학우들이 웹 사이트에서 학업성적확인서 PDF만 올려서 빠르고 간편하게 본인의 졸업요건을 파악하고 부족한 부분을 알 수 있게 도와줌
-2. 조교들은 졸업 요건을 확인하는 업무를 하지 않아도 되기 때문에 업무 부담이 줄어서 다른 업무에 보다 더 집중할 수 있음
-3. 타 대학도 기존 우리 학교와 졸업 요건 확인을 수기로 하기 때문에 이 프로젝트를 통해 정확한 결과 도출 및 시간 절약을 할 수 있는 기대효과
-## 사용 스택 🛠️
- <div align=center> 
-  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
-  <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
-  <br>
-  
-  <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> 
-  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
-  <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
-  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
-  <br>
-   
-  <img src="https://img.shields.io/badge/mariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=white">
-  <img src="https://img.shields.io/badge/amazonaws-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"> 
-  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <br>
-</div>
+## 프로젝트 개요❗
+#### 지브리를 평소 좋아하는! 컴공생이 만들어낸 간단한 개인 프로젝트입니다 (●'◡'●)
 
 
 ## 기능 & UI 💪🏽
@@ -67,12 +32,7 @@
 - 우측 상단에 있는 검색창을 통해 제목/내용으로 검색이 가능합니다. 왼쪽 상단에 있는 공지/안내 탭을 통해 카테고리별로 공지 글을 확인할 수 있습니다.
 
  </details><br/>
- <details>
-    <summary>공지사항 세부내용 확인</summary>
-    
-![image](https://user-images.githubusercontent.com/75983289/193455381-615a9335-c7f0-4b7f-bfcc-f8f19b909e1e.png)
-- 페이지 이동없이 게시글 제목을 누르면 내용을 확인할 수 있습니다.     
- </details><br/>
+
 
 > 졸업요건 확인 기능
   <details>
