@@ -2,7 +2,7 @@
 # <img width = "100%" src = "자료/Intro.png"/>
 지브리
 
-| [홈페이지 바로가기](http://www.hs-graduate-ok.com/) | [노션 바로가기](https://cyclic-pleasure-1d8.notion.site/cfc00b3dc86c48ffb1f7b8daa0fb2cc4?v=37062694a379480c8984998f79448e3c) |
+| [지브리홈페이지 바로가기](https://www.ghibli.jp/) |
 |:---:|:---:|
 
 ## TEAM MEMBER 👨‍👨‍👧‍👧
