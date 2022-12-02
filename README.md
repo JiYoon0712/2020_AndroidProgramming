@@ -1,4 +1,4 @@
-# 2020 Android Programming
+# 지브리 소개 애플리케이션
 # <img width = "100%" src = "자료/Intro.png"/>
 
 ## 개발자
