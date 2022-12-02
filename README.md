@@ -18,17 +18,19 @@
 <details>
     <summary> 메인 화면 </summary>
     
-!!![image](https://user-images.githubusercontent.com/98688979/205247590-407f6bb7-ecd6-402b-9938-bd4c4ac73e63.png)
+![image](https://user-images.githubusercontent.com/98688979/205247590-407f6bb7-ecd6-402b-9938-bd4c4ac73e63.png)
 
-- 메인 화면에서는 1. 핵심 서비스(메인 이동) 2. 부가서비스 기능을 선택할 수 있다.
+- 메인 화면에서는 2가지 서비스를 선택할 수 있다.
+        1️⃣ 핵심 서비스(메인 이동)
+        2️⃣ 부가서비스
  </details><br/>
 
 > 핵심 서비스 
 - 메인 이동 클릭 시, 아래 4가지 서비스를 이용할 수 있다.
-    1. 소개 
-    2. 포스터 
-    3. 평가/리뷰 
-    4. 부가정보 
+        1️⃣ 소개 
+        2️⃣ 포스터 
+        3️⃣ 평가/리뷰 
+        4️⃣ 부가정보 
     
  <details>
     <summary> 소개 </summary>
