@@ -15,9 +15,10 @@
     <summary>(자세히)</summary><br/><br/>
     
 > 메인페이지
+   
+ ![image](https://user-images.githubusercontent.com/98688979/205253323-9efd0f98-7310-4873-ac40-3cbc0a67777b.png)
 <details>
     <summary></summary>
-![image](https://user-images.githubusercontent.com/98688979/205253173-d227372c-25f1-46a9-a3e4-c4aacf6898aa.png)
 
 - 메인 화면에서는 2가지 서비스를 선택할 수 있다.
     1. 핵심 서비스(메인 이동)
@@ -28,10 +29,10 @@
     
  ![image](https://user-images.githubusercontent.com/98688979/205251967-cbbdaf99-2efc-4a64-823b-279ed428e8e6.png)
 - 메인 이동 클릭 시, 아래 4가지 서비스를 이용할 수 있다.
-        1.소개 
-        2️.포스터 
-        3️.평가/리뷰 
-        4️.부가정보 
+        1. 소개 
+        2️. 포스터 
+        3️. 평가/리뷰 
+        4️. 부가정보 
     
  <details>
     <summary> 1️⃣소개 </summary>
@@ -47,7 +48,7 @@
 
 > 
   <details>
-     <summary> 2️⃣포스터 </summary>ㅅ
+     <summary> 2️⃣포스터 </summary>
      
 ![image](https://user-images.githubusercontent.com/98688979/205251373-d4d6e62b-e5e6-4090-aac9-5b7b734ba288.png)
 ![image](https://user-images.githubusercontent.com/98688979/205251402-7a4f4c59-f635-4baa-9d3e-ec57ec0af84f.png)
@@ -79,7 +80,9 @@
     
     
 > 부가 서비스
-    ![image](https://user-images.githubusercontent.com/98688979/205252482-02f2a66c-ef63-4e00-b4e6-17431d69fd63.png)
+    
+    
+![image](https://user-images.githubusercontent.com/98688979/205252482-02f2a66c-ef63-4e00-b4e6-17431d69fd63.png)
      
     <details>
      <summary>  1️⃣음악 </summary>
