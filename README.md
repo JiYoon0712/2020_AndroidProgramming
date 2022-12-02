@@ -11,6 +11,5 @@
 
 
 ## 기능 & UI 💪🏽
-<details>
-    <summary>안드로이드 프로그래밍(수업 이후)/TermProject 학기 이후 보완.pdf</summary><br/><br/>
-   
+
+안드로이드 프로그래밍(수업 이후)/TermProject 학기 이후 보완.pdf
