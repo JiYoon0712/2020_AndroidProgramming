@@ -17,10 +17,7 @@
 > 메인페이지
 <details>
     <summary></summary>
-    
-![image](https://user-images.githubusercontent.com/98688979/205249204-b3306eb6-838d-480a-951e-4c937f15a4e3.png)
-![image](https://user-images.githubusercontent.com/98688979/205249404-db96503d-a49a-435a-8770-8d35a64c1c22.png)
- 
+![image](https://user-images.githubusercontent.com/98688979/205253173-d227372c-25f1-46a9-a3e4-c4aacf6898aa.png)
 
 - 메인 화면에서는 2가지 서비스를 선택할 수 있다.
     1. 핵심 서비스(메인 이동)
@@ -28,8 +25,8 @@
  </details><br/>
 
 > 핵심 서비스 
-    ![image](https://user-images.githubusercontent.com/98688979/205251967-cbbdaf99-2efc-4a64-823b-279ed428e8e6.png)
-
+    
+ ![image](https://user-images.githubusercontent.com/98688979/205251967-cbbdaf99-2efc-4a64-823b-279ed428e8e6.png)
 - 메인 이동 클릭 시, 아래 4가지 서비스를 이용할 수 있다.
         1.소개 
         2️.포스터 
