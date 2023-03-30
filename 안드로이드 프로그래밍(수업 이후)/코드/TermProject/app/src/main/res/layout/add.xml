@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FDF6F0"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:text="[ Ghibli Additional Information]"
+        android:textSize="15dp"
+        android:background="#506380"
+        android:textColor="#FDF6F0"
+        android:fontFamily="@font/jalnan"
+        android:gravity="center|center" />
+
+        <LinearLayout
+            android:id="@+id/tabSite"
+            android:orientation="vertical"
+            android:gravity="center|center"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="#506380"
+                android:fontFamily="@font/notosemibold"
+                android:text="\n[ 지브리 공식 홈페이지 ]" />
+
+            <Button
+                android:id="@+id/btnGhibli"
+                android:background="@drawable/ghibli"
+                android:layout_width="200dp"
+                android:layout_height="180dp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="#506380"
+                android:fontFamily="@font/notosemibold"
+                android:text="\n [ 도토리숲 공식 홈페이지 ]" />
+
+            <Button
+                android:id="@+id/btnDotori"
+                android:background="@drawable/dotori"
+                android:layout_width="200dp"
+                android:layout_height="180dp"
+                android:layout_marginBottom="20dp"/>
+
+
+        </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <Button
+            android:id="@+id/btnHome"
+            android:textColor="#FDF6F0"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom"
+            android:background="#506380"
+            android:fontFamily="@font/jalnan"
+            android:text="Home"/>
+
+    </LinearLayout>
+
+</LinearLayout>
+

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/goMusic"
+        android:title="음악" />
+    <item
+        android:id="@+id/goVideo"
+        android:title="동영상"/>
+    <item
+        android:id="@+id/goMap"
+        android:title="구글 지도"/>
+
+</menu>
